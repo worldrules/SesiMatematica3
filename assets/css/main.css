@@ -2707,7 +2707,7 @@ input[type="radio"]+label:before {
 }
 
 .wrapper.style3 .icon.major:before {
-	color:#d44d50;
+	color: #d44d50;
 }
 
 .wrapper.style3-alt .icon.major:before {
@@ -3930,10 +3930,10 @@ body.is-ie #sidebar>.inner {
 }
 
 #sidebar nav a:after {
-	background-image: -moz-linear-gradient(to right, #fff, #d47173);
-	background-image: -webkit-linear-gradient(to right, #fff, #d47173);
-	background-image: -ms-linear-gradient(to right, #fff, #d47173);
-	background-image: linear-gradient(to right, #fff, #d47173);
+	background-image: -moz-linear-gradient(to right, #fff, red);
+	background-image: -webkit-linear-gradient(to right, #fff, red);
+	background-image: -ms-linear-gradient(to right, #fff, red);
+	background-image: linear-gradient(to right, #fff, red);
 	-moz-transition: max-width 0.2s ease;
 	-webkit-transition: max-width 0.2s ease;
 	-ms-transition: max-width 0.2s ease;
